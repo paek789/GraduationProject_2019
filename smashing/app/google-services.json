@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122498291825",
+    "firebase_url": "https://smashing2-df398.firebaseio.com",
+    "project_id": "smashing2-df398",
+    "storage_bucket": "smashing2-df398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122498291825:android:0896be5de05b196a4e23d0",
+        "android_client_info": {
+          "package_name": "com.example.smashing2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122498291825-er7f251sah25todes0j7ks08eq7o59gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smashing2",
+            "certificate_hash": "38ed49e88df7d0f18ce5e75848c90bffc67fd02d"
+          }
+        },
+        {
+          "client_id": "122498291825-t4dv4psekbsmjusgss626ljgnjrm8n5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKqLcFuMv8U1gXsECqbLZQVjpyXVhUKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122498291825-t4dv4psekbsmjusgss626ljgnjrm8n5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sports">
+        <item>축구</item>
+        <item>농구</item>
+        <item>테니스</item>
+        <item>배드민턴</item>
+        <item>족구</item>
+        <item>탁구</item>
+    </string-array>
+</resources>

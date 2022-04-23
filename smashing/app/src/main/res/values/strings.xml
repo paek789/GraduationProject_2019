@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smashing2</string>
+    <string name="logut">logout</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
